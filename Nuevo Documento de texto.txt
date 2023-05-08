@@ -1,1 +1,0 @@
-Agregar nuevas fotos en las tajetas ya que no estan en la misma medida, y luego revisar el codigo de css y js para que este todo correcto
