@@ -1,0 +1,202 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Campera Nike",
+        "imagen": "./Assets/campera-adidas.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio":20000
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Campera Adidas",
+        "imagen": "./Assets/abrigo-adidas.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Campera Nike",
+        "imagen": "./Assets/rompeviento.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 18000
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Campera Adidas",
+        "imagen": "./Assets/campera.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 45000
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Campera Anonak",
+        "imagen": "./Assets/camperon.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 60000
+    },
+    {
+        "id": "Zapatillas-01",
+        "titulo": "Zapatillas Nike Dunk",
+        "imagen": "./Assets/Dunk.jpg",
+        "categoria": {
+            "nombre": "Calzado",
+            "id": "calzado"
+        },
+        "precio": 65000
+    },
+    {
+        "id": "Zapatillas-02",
+        "titulo": "Zapatillas jordan",
+        "imagen": "./Assets/jordan.jpg",
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "calzado"
+        },
+        "precio": 40000
+    },
+    {
+        "id": "Zapatillas-03",
+        "titulo": "Zapatillas Nike Dunk ",
+        "imagen":"./Assets/dunk.webp" ,
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "calzado"
+        },
+        "precio": 35000
+    },
+    {
+        "id": "Conjunto-01",
+        "titulo": "Conjunto Supreme",
+        "imagen":"./Assets/supreme.jpg" ,
+        "categoria": {
+            "nombre": "Mochilas y Ropa",
+            "id": "mochilas y ropa"
+        },
+        "precio": 70000
+    },
+    {
+        "id": "Zapatillas-05",
+        "titulo": "Zapatillas Uptempo",
+        "imagen": "./Assets/subtempo.jpg",
+        "categoria": {
+            "nombre": "Calzado",
+            "id": "calzado"
+        },
+        "precio": 40000
+    },
+    {
+        "id": "Zapatillas-06",
+        "titulo": "Zapatillas Nike dunk",
+        "imagen": "./Assets/travis.jpg",
+        "categoria": {
+            "nombre": "Zapatillas",
+            "id": "calzado"
+        },
+        "precio": 65000
+    },
+    {
+        "id": "Buzo-01",
+        "titulo": "Buzo Balenciaga",
+        "imagen": "./Assets/buzo-balenciaga.jpg",
+        "categoria": {
+            "nombre": "Buzo",
+            "id": "mochilas y ropa"
+        },
+        "precio": 28000
+    },
+    {
+        "id": "Mochila-01",
+        "titulo": "Mochila Billabong",
+        "imagen": "./Assets/mochila-2.jpg",
+        "categoria": {
+            "nombre": "Mochila",
+            "id": "mochilas y ropa"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "Mochila-02",
+        "titulo": "Mochila Burberry",    
+        "imagen": "./Assets/mochila.jpeg",
+        "categoria": {
+            "nombre": "Mochila",
+            "id": "mochilas y ropa"
+        },
+        "precio": 19000
+    },
+    {
+        "id": "Mochilas-03",
+        "titulo": "Mochila Billabong",
+        "imagen": "./Assets/mochila-3.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "mochilas y ropa"
+        },
+        "precio": 17000
+    },
+    {
+        "id": "Mochila-04",
+        "titulo": "Mochila Burberry",
+        "imagen": "./Assets/mochila-balenciaga.jpg",
+        "categoria": {
+            "nombre": "Mochila",
+            "id": "mochilas y ropa"
+        },
+        "precio": 13500
+    },
+    {
+        "id": "Botines-01",
+        "titulo": "Botines Nike",
+        "imagen": "./Assets/botines-2.jpg",
+        "categoria": {
+            "nombre": "Botines",
+            "id": "calzado"
+        },
+        "precio": 39000
+    },
+    {
+        "id": "Botines-02",
+        "titulo": "Botines Nike",
+        "imagen": "./Assets/botines-3.jpg",
+        "categoria": {
+            "nombre": "Botines",
+            "id": "calzado"
+        },
+        "precio": 47000
+    },
+    {
+        "id": "Remera-01",
+        "titulo": "Remera Balenciaga",
+        "imagen": "./Assets/remera-balenciaga.jpg",
+        "categoria": {
+            "nombre": "Remera",
+            "id": "mochilas y ropa"
+        },
+        "precio": 25000
+    },
+    {
+        "id": "Mochila-05",
+        "titulo": "Mochila Supreme",
+        "imagen": "./Assets/mochila-supreme.jpg",
+        "categoria": {
+            "nombre": "Mochila",
+            "id": "mochilas y ropa"
+        },
+        "precio": 80000
+    }
+]
